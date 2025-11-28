@@ -25,7 +25,7 @@ const products = [
     rating: 4.6,
     reviews: 8912,
     image: "https://m.media-amazon.com/images/I/71B2hSrvyZL._AC_SY450_.jpg",
-    link: "https://www.amazon.com/amazon-fire-tv-stick-4K-select/dp/B0C6W3D4RM?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/amazon-fire-tv-stick-4K-select/dp/B0C6W3D4RM?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description:
       "Stream in stunning 4K Ultra HD with support for Dolby Vision, HDR10+, and immersive Dolby Atmos audio",
   },
@@ -38,7 +38,7 @@ const products = [
     rating: 4.8,
     reviews: 32456,
     image: "https://m.media-amazon.com/images/I/611pEx7220L._AC_SX522_.jpg",
-    link: "https://www.amazon.com/Apple-Cancellation-Transparency-Personalized-High-Fidelity/dp/B0D1XD1ZV3?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Apple-Cancellation-Transparency-Personalized-High-Fidelity/dp/B0D1XD1ZV3?&linkCode=ll1&tag=marketplaza0b-20&linkId=04a9286d70d9246ac7e6693261e914f9&language=en_US&ref_=as_li_ss_tl",
     description:
       "Premium wireless earbuds with adaptive active noise cancellation, transparency mode, and personalized spatial audio",
   },
@@ -50,7 +50,7 @@ const products = [
     rating: 4.7,
     reviews: 18765,
     image: "https://m.media-amazon.com/images/I/71JJLJnwREL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Anker-Travel-Ready-Technology-High-Speed-Output%EF%BC%88Black%EF%BC%89%EF%BC%8C1pack/dp/B0D5CLSMFB?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Anker-Travel-Ready-Technology-High-Speed-Output%EF%BC%88Black%EF%BC%89%EF%BC%8C1pack/dp/B0D5CLSMFB?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Ultra-compact 10,000mAh portable charger with PowerIQ technology for fast charging on the go",
   },
   {
@@ -61,7 +61,7 @@ const products = [
     rating: 4.9,
     reviews: 4567,
     image: "https://m.media-amazon.com/images/I/61n0lmxP5-L._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Smartphone-Unlocked-Processor-Manufacturer-Warranty/dp/B0DP3G4GVQ?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Smartphone-Unlocked-Processor-Manufacturer-Warranty/dp/B0DP3G4GVQ?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description:
       "Flagship unlocked smartphone with advanced processor, stunning display, and professional-grade camera system",
   },
@@ -76,7 +76,7 @@ const products = [
     rating: 4.7,
     reviews: 142567,
     image: "https://m.media-amazon.com/images/I/71Z401LjFFL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Instant-Pot-Multi-Use-Programmable-Pressure/dp/B00FLYWNYQ?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Instant-Pot-Multi-Use-Programmable-Pressure/dp/B00FLYWNYQ?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description:
       "Multi-functional programmable cooker combining pressure cooker, slow cooker, rice cooker, steamer, and more",
   },
@@ -88,7 +88,7 @@ const products = [
     rating: 4.8,
     reviews: 67234,
     image: "https://m.media-amazon.com/images/I/71+8uTMDRFL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Ninja-AF101-Fryer-Black-gray/dp/B07FDJMC9Q?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Ninja-AF101-Fryer-Black-gray/dp/B07FDJMC9Q?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Compact air fryer with wide temperature range for guilt-free crispy favorites using little to no oil",
   },
   {
@@ -100,7 +100,7 @@ const products = [
     rating: 4.6,
     reviews: 28945,
     image: "https://m.media-amazon.com/images/I/81XzXrlHljL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Zinus-Mattress-Fiberglass-Pressure-Certified/dp/B0CKZ1CK1H?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Zinus-Mattress-Fiberglass-Pressure-Certified/dp/B0CKZ1CK1H?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description:
       "Premium memory foam mattress infused with green tea extract for natural odor control and pressure relief",
   },
@@ -112,7 +112,7 @@ const products = [
     rating: 4.8,
     reviews: 45123,
     image: "https://m.media-amazon.com/images/I/81Ap89R-ajL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Rubbermaid-Brilliance-Storage-Container-BPA-free/dp/B079M8FPTW?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Rubbermaid-Brilliance-Storage-Container-BPA-free/dp/B079M8FPTW?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "BPA-free leak-proof food storage containers with airtight seals and crystal-clear visibility",
   },
   {
@@ -123,7 +123,7 @@ const products = [
     rating: 4.7,
     reviews: 78234,
     image: "https://m.media-amazon.com/images/I/71ybuaqVLwL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B0D7QLQNS5?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Powerful upright vacuum with lift-away technology and anti-allergen complete seal",
   },
 
@@ -136,7 +136,7 @@ const products = [
     rating: 4.6,
     reviews: 23456,
     image: "https://m.media-amazon.com/images/I/71r7bLsvaVL._SX466_.jpg",
-    link: "https://www.amazon.com/CeraVe-Skin-Renewing-Night-Cream/dp/B00SNPCSUY?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/CeraVe-Skin-Renewing-Night-Cream/dp/B00SNPCSUY?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Peptide-rich night cream with hyaluronic acid for skin renewal and intense moisture",
   },
   {
@@ -147,7 +147,7 @@ const products = [
     rating: 4.5,
     reviews: 89123,
     image: "https://m.media-amazon.com/images/I/61eH32lVpdL._SX522_.jpg",
-    link: "https://www.amazon.com/Ordinary-Hyaluronic-Acid-2-30ml/dp/B01MYEZPC8?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Ordinary-Hyaluronic-Acid-2-30ml/dp/B01MYEZPC8?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Concentrated hydration serum with multi-weight hyaluronic acid molecules for plump skin",
   },
   {
@@ -158,7 +158,7 @@ const products = [
     rating: 4.7,
     reviews: 67890,
     image: "https://m.media-amazon.com/images/I/51H5SkeGANL._SX522_.jpg",
-    link: "https://www.amazon.com/Laneige-Sleeping-Berry/dp/B07XXPHQZK?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Laneige-Sleeping-Berry/dp/B07XXPHQZK?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Overnight lip treatment with berry extract for soft, moisturized lips by morning",
   },
   {
@@ -169,7 +169,7 @@ const products = [
     rating: 4.6,
     reviews: 34567,
     image: "https://m.media-amazon.com/images/I/61n1krgI+tL._SX466_.jpg",
-    link: "https://www.amazon.com/Mielle-Rosemary-Mint-Scalp-Strengthening/dp/B07N7PK9QK?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Mielle-Rosemary-Mint-Scalp-Strengthening/dp/B07N7PK9QK?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Biotin-enriched scalp treatment oil with rosemary and mint for healthy hair growth",
   },
   {
@@ -180,7 +180,7 @@ const products = [
     rating: 4.5,
     reviews: 45678,
     image: "https://m.media-amazon.com/images/I/61r3nBLCLKL._SX522_.jpg",
-    link: "https://www.amazon.com/l-f-Power-Grip-Primer-Enhancing/dp/B084Q5CQS9?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/l-f-Power-Grip-Primer-Enhancing/dp/B084Q5CQS9?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Gel-based face primer with a tacky texture that grips makeup for long-lasting wear",
   },
 
@@ -193,7 +193,7 @@ const products = [
     rating: 4.6,
     reviews: 56789,
     image: "https://m.media-amazon.com/images/I/81D+bCgn8hL._AC_SX569_.jpg",
-    link: "https://www.amazon.com/Hanes-EcoSmart-Fleece-Sweatshirt-Stonewashed/dp/B0721C21RJ?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Hanes-EcoSmart-Fleece-Sweatshirt-Stonewashed/dp/B0721C21RJ?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Comfortable crewneck sweatshirt made with recycled polyester for sustainable warmth",
   },
   {
@@ -204,7 +204,7 @@ const products = [
     rating: 4.5,
     reviews: 45678,
     image: "https://m.media-amazon.com/images/I/71QyRZzbaUL._AC_SX569_.jpg",
-    link: "https://www.amazon.com/Hanes-Full-zip-Eco-smart-athletic-sweatshirts/dp/B00JUM4CT4?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Hanes-Full-zip-Eco-smart-athletic-sweatshirts/dp/B00JUM4CT4?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Classic zip-up hoodie with eco-friendly fabric and comfortable athletic fit",
   },
   {
@@ -215,7 +215,7 @@ const products = [
     rating: 4.7,
     reviews: 34567,
     image: "https://m.media-amazon.com/images/I/71JsiyZWwyL._AC_SY575_.jpg",
-    link: "https://www.amazon.com/adidas-Racer-Adapt-Sneaker-Black/dp/B0CKMC1BGB?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/adidas-Racer-Adapt-Sneaker-Black/dp/B0CKMC1BGB?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Lightweight running-inspired sneakers with cloudfoam cushioning for all-day comfort",
   },
   {
@@ -226,7 +226,7 @@ const products = [
     rating: 4.6,
     reviews: 78901,
     image: "https://m.media-amazon.com/images/I/81HRsNLuziL._AC_SX466_.jpg",
-    link: "https://www.amazon.com/Levis-Mens-Jeans-Stretch-Panda/dp/B072NGDWDY?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Levis-Mens-Jeans-Stretch-Panda/dp/B072NGDWDY?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Classic slim-fit jeans with stretch denim for comfortable, modern style",
   },
   {
@@ -237,7 +237,7 @@ const products = [
     rating: 4.7,
     reviews: 23456,
     image: "https://m.media-amazon.com/images/I/61nHUVwR65L._AC_SY550_.jpg",
-    link: "https://www.amazon.com/Casio-MDV106-1AV-Analog-Watch-Black/dp/B009KYJAJY?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Casio-MDV106-1AV-Analog-Watch-Black/dp/B009KYJAJY?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Durable dive-style watch with 200M water resistance and reliable quartz movement",
   },
 
@@ -250,7 +250,7 @@ const products = [
     rating: 4.8,
     reviews: 45678,
     image: "https://m.media-amazon.com/images/I/8160QjpuoOL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/LEGO-Classic-Medium-Creative-Brick/dp/B00NHQFA1I?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/LEGO-Classic-Medium-Creative-Brick/dp/B00NHQFA1I?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "484-piece creative building set with vibrant colors for endless imaginative possibilities",
   },
   {
@@ -261,7 +261,7 @@ const products = [
     rating: 4.9,
     reviews: 123456,
     image: "https://m.media-amazon.com/images/I/91zZyNjPcLL._AC_SY879_.jpg",
-    link: "https://www.amazon.com/Mattel-Games-Adults-Parties-Special/dp/B0D6X9T62X?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Mattel-Games-Adults-Parties-Special/dp/B0D6X9T62X?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Classic family card game for 2-10 players with simple rules and fast-paced fun",
   },
   {
@@ -272,7 +272,7 @@ const products = [
     rating: 4.7,
     reviews: 12345,
     image: "https://m.media-amazon.com/images/I/71PFKADv6CL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Barbie-Dreamhouse-3-Story-Playset-Elevator/dp/B0BLJTJ38M?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Barbie-Dreamhouse-3-Story-Playset-Elevator/dp/B0BLJTJ38M?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "3-story dollhouse playset with working elevator and pool slide for imaginative play",
   },
   {
@@ -283,7 +283,7 @@ const products = [
     rating: 4.9,
     reviews: 23456,
     image: "https://m.media-amazon.com/images/I/715AHrLja3L._SX522_.jpg",
-    link: "https://www.amazon.com/Nintendo-Switch-Mario-World-Bundle-2/dp/B0FC5FJZ9Z?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Nintendo-Switch-Mario-World-Bundle-2/dp/B0FC5FJZ9Z?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Hybrid gaming console bundle with the latest Mario adventure game included",
   },
   {
@@ -294,7 +294,7 @@ const products = [
     rating: 4.8,
     reviews: 56789,
     image: "https://m.media-amazon.com/images/I/71LqxbA1WCL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Play-Doh-Modeling-Compound-Non-Toxic-Exclusive/dp/B00JM5GW10?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Play-Doh-Modeling-Compound-Non-Toxic-Exclusive/dp/B00JM5GW10?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Non-toxic modeling compound in rainbow colors for creative sculpting and play",
   },
 
@@ -307,7 +307,7 @@ const products = [
     rating: 4.8,
     reviews: 89012,
     image: "https://m.media-amazon.com/images/I/71NqHkGRN1L._AC_SX679_PIbundle-12,TopRight,0,0_SH20_.jpg",
-    link: "https://www.amazon.com/Pampers-Wipes-Sensitive-Perfume-Multi/dp/B0BJ13K7FR?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Pampers-Wipes-Sensitive-Perfume-Multi/dp/B0BJ13K7FR?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Hypoallergenic baby wipes with gentle cleansing lotion for sensitive skin",
   },
   {
@@ -318,7 +318,7 @@ const products = [
     rating: 4.7,
     reviews: 67890,
     image: "https://m.media-amazon.com/images/I/81Xyre0z0VL._AC_SX679_PIbundle-24,TopRight,0,0_SH20_.jpg",
-    link: "https://www.amazon.com/Charmin-Toilet-Family-Cushiony-Sheets/dp/B0798DVT68?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Charmin-Toilet-Family-Cushiony-Sheets/dp/B0798DVT68?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "4X stronger bath tissue with cushiony comfort in family mega rolls",
   },
   {
@@ -329,7 +329,7 @@ const products = [
     rating: 4.6,
     reviews: 34567,
     image: "https://m.media-amazon.com/images/I/7134HKzZjdL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Natures-Way-Elderberry-Vegetarian-Packaging/dp/B00MJ7VL1O?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Natures-Way-Elderberry-Vegetarian-Packaging/dp/B00MJ7VL1O?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Immune support gummies with black elderberry extract and vitamin C",
   },
   {
@@ -340,7 +340,7 @@ const products = [
     rating: 4.8,
     reviews: 56789,
     image: "https://m.media-amazon.com/images/I/81FlNgJOeqL._AC_SX679_PIbundle-12,TopRight,0,0_SH20_.jpg",
-    link: "https://www.amazon.com/HUGGIES-Natural-Unscented-Sensitive-Water-Based/dp/B07SCL613T?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/HUGGIES-Natural-Unscented-Sensitive-Water-Based/dp/B07SCL613T?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Unscented plant-based wipes with 99% water for gentle baby care",
   },
   {
@@ -351,7 +351,7 @@ const products = [
     rating: 4.7,
     reviews: 23456,
     image: "https://m.media-amazon.com/images/I/71IsWBuTvfL._SX466_.jpg",
-    link: "https://www.amazon.com/Philips-Natural-Response-SCY910-04/dp/B098YHHV3Q?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Philips-Natural-Response-SCY910-04/dp/B098YHHV3Q?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Anti-colic baby bottles with natural response nipple for comfortable feeding",
   },
 
@@ -364,7 +364,7 @@ const products = [
     rating: 4.5,
     reviews: 12345,
     image: "https://m.media-amazon.com/images/I/61ZtqtvoD2L._AC_SX466_.jpg",
-    link: "https://www.amazon.com/Fitbit-Exercise-Equipment-6-Months-Membership/dp/B0CC62ZG1M?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Fitbit-Exercise-Equipment-6-Months-Membership/dp/B0CC62ZG1M?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Advanced fitness tracker with heart rate monitoring, GPS, and sleep tracking",
   },
   {
@@ -375,7 +375,7 @@ const products = [
     rating: 4.6,
     reviews: 45678,
     image: "https://m.media-amazon.com/images/I/61aUr3tBexL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Coleman-Weatherproof-Festivals-Backyard-Sleepovers/dp/B0D7QLQNS5?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Coleman-Weatherproof-Festivals-Backyard-Sleepovers/dp/B0D7QLQNS5?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "All-season rectangular sleeping bag with weather-resistant design for camping",
   },
   {
@@ -386,7 +386,7 @@ const products = [
     rating: 4.6,
     reviews: 23456,
     image: "https://m.media-amazon.com/images/I/61O30g0cZmL._AC_SY575_.jpg",
-    link: "https://www.amazon.com/Under-Armour-Charged-Assert-Running/dp/B09XBWQ9Y9?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Under-Armour-Charged-Assert-Running/dp/B09XBWQ9Y9?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Performance running shoes with charged cushioning for responsive comfort",
   },
   {
@@ -397,7 +397,7 @@ const products = [
     rating: 4.7,
     reviews: 8901,
     image: "https://m.media-amazon.com/images/I/518z0My1ZlS._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Garmin-Forerunner-Running-Suggested-Workouts/dp/B092RCLKHN?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Garmin-Forerunner-Running-Suggested-Workouts/dp/B092RCLKHN?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Advanced GPS smartwatch with race widget, training status, and performance metrics",
   },
   {
@@ -408,7 +408,7 @@ const products = [
     rating: 4.9,
     reviews: 67890,
     image: "https://m.media-amazon.com/images/I/51kXewLNVGL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/YETI-Rambler-Stainless-Insulated-MagSlider/dp/B08D3VPRQ1?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/YETI-Rambler-Stainless-Insulated-MagSlider/dp/B08D3VPRQ1?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Stainless steel insulated tumbler with MagSlider lid for hot or cold beverages",
   },
 
@@ -421,7 +421,7 @@ const products = [
     rating: 4.8,
     reviews: 123456,
     image: "https://m.media-amazon.com/images/I/71F4+7rk2eL._SX342_.jpg",
-    link: "https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Proven strategies for building good habits and breaking bad ones with tiny changes",
   },
   {
@@ -432,7 +432,7 @@ const products = [
     rating: 4.6,
     reviews: 89012,
     image: "https://m.media-amazon.com/images/I/81A5jQHA+lL._SX342_.jpg",
-    link: "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Counterintuitive approach to living a good life through accepting limitations",
   },
   {
@@ -443,7 +443,7 @@ const products = [
     rating: 4.9,
     reviews: 234567,
     image: "https://m.media-amazon.com/images/I/91eopoUCjLL._SX342_.jpg",
-    link: "https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Book/dp/B017V4IMVQ?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Book/dp/B017V4IMVQ?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "First book in the magical Harry Potter series following the young wizard's adventures",
   },
   {
@@ -454,7 +454,7 @@ const products = [
     rating: 4.7,
     reviews: 45678,
     image: "https://m.media-amazon.com/images/I/71s-d6iLlaL._SX342_.jpg",
-    link: "https://www.amazon.com/48-Laws-of-Power-Robert-Greene-audiobook/dp/B00X0TKUS0?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/48-Laws-of-Power-Robert-Greene-audiobook/dp/B00X0TKUS0?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Distilled wisdom of masters who wielded power throughout history",
   },
 
@@ -467,7 +467,7 @@ const products = [
     rating: 4.3,
     reviews: 12345,
     image: "https://m.media-amazon.com/images/I/616wRFOTA5L._AC_SX466_.jpg",
-    link: "https://www.amazon.com/Furbo-Camera-with-360%C2%B0-View/dp/B09GDQZLD1?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Furbo-Camera-with-360%C2%B0-View/dp/B09GDQZLD1?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Smart pet camera with treat tossing, barking alerts, and full-room tracking",
   },
   {
@@ -478,7 +478,7 @@ const products = [
     rating: 4.6,
     reviews: 34567,
     image: "https://m.media-amazon.com/images/I/71LHksRF15L._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Amazon-Basics-Heavy-Duty-Absorbency-Regular/dp/B00MW8G62E?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Amazon-Basics-Heavy-Duty-Absorbency-Regular/dp/B00MW8G62E?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Super-absorbent training pads with 5-layer protection for puppies and senior dogs",
   },
   {
@@ -489,7 +489,7 @@ const products = [
     rating: 4.3,
     reviews: 23456,
     image: "https://m.media-amazon.com/images/I/616wRFOTA5L._AC_SX466_.jpg",
-    link: "https://www.amazon.com/Furbo-Camera-with-360%C2%B0-View/dp/B09GDQZLD1?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Furbo-Camera-with-360%C2%B0-View/dp/B09GDQZLD1?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Interactive pet camera with treat tossing, two-way audio, and barking alerts",
   },
   {
@@ -500,7 +500,7 @@ const products = [
     rating: 4.8,
     reviews: 89012,
     image: "https://m.media-amazon.com/images/I/61j0lJWvRKL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/KONG-Classic-Durable-Natural-Rubber/dp/B0002AR0II?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/KONG-Classic-Durable-Natural-Rubber/dp/B0002AR0II?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Durable rubber toy for stuffing treats, promoting healthy play and mental stimulation",
   },
   {
@@ -511,7 +511,7 @@ const products = [
     rating: 4.2,
     reviews: 5678,
     image: "https://m.media-amazon.com/images/I/71sNgZnZ6HL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/PetSafe-Automatic-Ball-Launcher-Dog/dp/B0721735K9?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/PetSafe-Automatic-Ball-Launcher-Dog/dp/B0721735K9?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Interactive automatic ball thrower for dogs with adjustable launch distances",
   },
   {
@@ -522,7 +522,7 @@ const products = [
     rating: 4.5,
     reviews: 45678,
     image: "https://m.media-amazon.com/images/I/71r3sNGrYeL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Catit-Flower-Fountain-3-Liters/dp/B0146QXOB0?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Catit-Flower-Fountain-3-Liters/dp/B0146QXOB0?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "3-liter pet water fountain with flower design encouraging cats to drink more water",
   },
   {
@@ -533,7 +533,7 @@ const products = [
     rating: 4.7,
     reviews: 12345,
     image: "https://m.media-amazon.com/images/I/81xRcLxjTnL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Purina-Pro-Plan-High-Protein-Chicken/dp/B07GSJBJNW?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Purina-Pro-Plan-High-Protein-Chicken/dp/B07GSJBJNW?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "High-protein dry dog food with real chicken for adult dogs' health and wellness",
   },
   {
@@ -544,7 +544,7 @@ const products = [
     rating: 4.6,
     reviews: 67890,
     image: "https://m.media-amazon.com/images/I/71K3E7g+wpL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/FURminator-deShedding-Tool-Large-Dogs/dp/B0040QQ07C?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/FURminator-deShedding-Tool-Large-Dogs/dp/B0040QQ07C?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Professional grooming tool reducing shedding up to 90% for large dogs",
   },
   {
@@ -555,7 +555,7 @@ const products = [
     rating: 4.5,
     reviews: 23456,
     image: "https://m.media-amazon.com/images/I/81k-cW8hSVL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/SmartyKat-Hot-Pursuit-Electronic-Concealed/dp/B06WP7F8YC?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/SmartyKat-Hot-Pursuit-Electronic-Concealed/dp/B06WP7F8YC?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Electronic concealed motion cat toy with feather and random speed for active play",
   },
   {
@@ -566,7 +566,7 @@ const products = [
     rating: 4.6,
     reviews: 34567,
     image: "https://m.media-amazon.com/images/I/815EhNfVPzL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Petmate-Two-Door-Top-Load/dp/B00063KCS8?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Petmate-Two-Door-Top-Load/dp/B00063KCS8?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Durable pet carrier with top and front entry for easy loading and secure travel",
   },
   {
@@ -577,7 +577,7 @@ const products = [
     rating: 4.4,
     reviews: 12345,
     image: "https://m.media-amazon.com/images/I/71POJ-eqDWL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Tetra-Cleaner-Gravel-Aquariums-Freshwater/dp/B091D3DTWS?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Tetra-Cleaner-Gravel-Aquariums-Freshwater/dp/B091D3DTWS?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Easy-to-use aquarium vacuum for cleaning gravel and water changes",
   },
 
@@ -591,7 +591,7 @@ const products = [
     rating: 4.7,
     reviews: 8901,
     image: "https://m.media-amazon.com/images/I/71vd9uEPNFL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Weber-SPIRIT-3-Burner-Liquid-Propane/dp/B0DPH6NNTB?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Weber-SPIRIT-3-Burner-Liquid-Propane/dp/B0DPH6NNTB?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "3-burner liquid propane grill with porcelain-enameled cooking grates and built-in thermometer",
   },
   {
@@ -602,7 +602,7 @@ const products = [
     rating: 4.5,
     reviews: 5678,
     image: "https://m.media-amazon.com/images/I/81hk0PGpklL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/dp/B09F9C3KFS?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/dp/B09F9C3KFS?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Battery-powered push mower with 20-inch cutting deck and 2-in-1 mulching capability",
   },
   {
@@ -613,7 +613,7 @@ const products = [
     rating: 4.4,
     reviews: 3456,
     image: "https://m.media-amazon.com/images/I/71UDfsaOKvL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/dp/B09F3CWRRC?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/dp/B09F3CWRRC?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Rattan wicker conversation set with cushions for outdoor comfort and style",
   },
   {
@@ -624,7 +624,7 @@ const products = [
     rating: 4.6,
     reviews: 12345,
     image: "https://m.media-amazon.com/images/I/71CZ9FyVBhL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/dp/B07J66MY3Y?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/dp/B07J66MY3Y?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "68-piece cordless drill kit with battery, charger, and essential hand tools",
   },
   {
@@ -635,7 +635,7 @@ const products = [
     rating: 4.5,
     reviews: 23456,
     image: "https://m.media-amazon.com/images/I/81IY7R7mHfL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/dp/B0DBZM45GP?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/dp/B0DBZM45GP?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "2030 PSI electric power washer for cleaning decks, driveways, and siding",
   },
   {
@@ -646,7 +646,7 @@ const products = [
     rating: 4.3,
     reviews: 1234,
     image: "https://m.media-amazon.com/images/I/71ZBHo8TceL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Kurapika-Furniture-Outdoor-Conversation-Backyard/dp/B0DP43X8ZJ?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Kurapika-Furniture-Outdoor-Conversation-Backyard/dp/B0DP43X8ZJ?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Compact rattan bistro set perfect for balconies and small outdoor spaces",
   },
   {
@@ -657,7 +657,7 @@ const products = [
     rating: 4.4,
     reviews: 5678,
     image: "https://m.media-amazon.com/images/I/81VhMt7V08L._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Devoko-Furniture-Rattan-Cushion-Outdoor/dp/B0765VTBLV?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Devoko-Furniture-Rattan-Cushion-Outdoor/dp/B0765VTBLV?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Manual wicker outdoor sectional with glass table and comfortable cushions",
   },
   {
@@ -668,7 +668,7 @@ const products = [
     rating: 4.3,
     reviews: 2345,
     image: "https://m.media-amazon.com/images/I/71tXTDVLrFL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Qsun-Furniture-Conversation-Backyard-Poolside/dp/B09CDNXK56?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Qsun-Furniture-Conversation-Backyard-Poolside/dp/B09CDNXK56?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Rattan conversation set ideal for backyard, poolside, or garden relaxation",
   },
   {
@@ -679,7 +679,7 @@ const products = [
     rating: 4.5,
     reviews: 8901,
     image: "https://m.media-amazon.com/images/I/61Xjhe-7-1L._AC_SX679_.jpg",
-    link: "https://www.amazon.com/Mouse-Station-Keys-Required-Stations/dp/B0FDFHPVQ7?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/Mouse-Station-Keys-Required-Stations/dp/B0FDFHPVQ7?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Reusable rodent control station with key lock for safe pest management",
   },
   {
@@ -690,7 +690,7 @@ const products = [
     rating: 4.6,
     reviews: 1234,
     image: "https://m.media-amazon.com/images/I/71ekHPtCxdL._AC_SX679_.jpg",
-    link: "https://www.amazon.com/JAMFLY-Outdoor-Oversized-Lounger-Backyard/dp/B0D11DZZ5J?tag=marketplaza0b-20",
+    link: "https://www.amazon.com/JAMFLY-Outdoor-Oversized-Lounger-Backyard/dp/B0D11DZZ5J?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Oversized wicker egg chair lounger perfect for backyard relaxation and outdoor comfort",
   },
 ]
