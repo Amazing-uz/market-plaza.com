@@ -2,6 +2,7 @@ export const products = [
   // Electronics
   {
     id: 1,
+    slug: "amazon-echo-studio",
     name: "Amazon Echo Studio",
     category: "Electronics",
     price: 199.99,
@@ -31,6 +32,7 @@ export const products = [
   },
   {
     id: 2,
+    slug: "amazon-fire-tv-stick-4k-select-newest-model",
     name: "Amazon Fire TV Stick 4K Select (newest model)",
     category: "Electronics",
     price: 54.99,
@@ -47,6 +49,7 @@ export const products = [
   },
   {
     id: 3,
+    slug: "apple-airpods-pro-2-wireless-earbuds",
     name: "Apple AirPods Pro 2 Wireless Earbuds",
     category: "Electronics",
     price: 249.99,
@@ -75,6 +78,7 @@ export const products = [
   },
   {
     id: 4,
+    slug: "anker-power-bank-powercore-10k",
     name: "Anker Power Bank (PowerCore 10K)",
     category: "Electronics",
     price: 29.99,
@@ -90,6 +94,7 @@ export const products = [
   },
   {
     id: 5,
+    slug: "samsung-galaxy-s25-ultra",
     name: "SAMSUNG Galaxy S25 Ultra",
     category: "Electronics",
     price: 1299.99,
@@ -114,6 +119,7 @@ export const products = [
   // Home & Kitchen
   {
     id: 6,
+    slug: "instant-pot-duo-7-in-1-electric-pressure-cooker",
     name: "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
     category: "Home & Kitchen",
     price: 89.99,
@@ -131,6 +137,7 @@ export const products = [
   },
   {
     id: 7,
+    slug: "ninja-air-fryer",
     name: "Ninja Air Fryer",
     category: "Home & Kitchen",
     price: 89.99,
@@ -146,6 +153,7 @@ export const products = [
   },
   {
     id: 8,
+    slug: "zinus-12-inch-king-green-tea-memory-foam-mattress",
     name: "ZINUS 12 Inch King Green Tea Memory Foam Mattress",
     category: "Home & Kitchen",
     price: 319.99,
@@ -163,6 +171,7 @@ export const products = [
   },
   {
     id: 9,
+    slug: "rubbermaid-brilliance-storage-14-piece-plastic-containers",
     name: "Rubbermaid Brilliance Storage 14-Piece Plastic Containers",
     category: "Home & Kitchen",
     price: 39.99,
@@ -179,6 +188,7 @@ export const products = [
   },
   {
     id: 10,
+    slug: "shark-navigator-professional-upright-vacuum",
     name: "Shark Navigator Professional Upright Vacuum",
     category: "Home & Kitchen",
     price: 179.99,
@@ -196,6 +206,7 @@ export const products = [
   // Beauty & Personal Care
   {
     id: 11,
+    slug: "cerave-skin-renewing-night-cream",
     name: "CeraVe Skin Renewing Night Cream",
     category: "Beauty & Personal Care",
     price: 18.99,
@@ -211,6 +222,7 @@ export const products = [
   },
   {
     id: 12,
+    slug: "the-ordinary-hyaluronic-acid-2-b5",
     name: "The Ordinary Hyaluronic Acid 2% + B5",
     category: "Beauty & Personal Care",
     price: 8.99,
@@ -226,6 +238,7 @@ export const products = [
   },
   {
     id: 13,
+    slug: "laneige-lip-sleeping-mask",
     name: "Laneige Lip Sleeping Mask",
     category: "Beauty & Personal Care",
     price: 24.0,
@@ -241,6 +254,7 @@ export const products = [
   },
   {
     id: 14,
+    slug: "neutrogena-makeup-remover-wipes-25-count-3-pack",
     name: "Neutrogena Makeup Remover Wipes (25 Count, 3 Pack)",
     category: "Beauty & Personal Care",
     price: 8.47,
@@ -256,6 +270,7 @@ export const products = [
   },
   {
     id: 15,
+    slug: "elf-power-grip-primer",
     name: "e.l.f. Power Grip Primer",
     category: "Beauty & Personal Care",
     price: 10.0,
@@ -273,6 +288,7 @@ export const products = [
   // Clothing, Shoes & Jewelry
   {
     id: 16,
+    slug: "hanes-mens-pullover-ecosmart-hooded-sweatshirt",
     name: "Hanes Men's Pullover EcoSmart Hooded Sweatshirt",
     category: "Clothing, Shoes & Jewelry",
     price: 13.0,
@@ -288,6 +304,7 @@ export const products = [
   },
   {
     id: 17,
+    slug: "hanes-mens-full-zip-eco-smart-hoodie",
     name: "Hanes Men's Full-Zip Eco-smart Hoodie",
     category: "Clothing, Shoes & Jewelry",
     price: 14.0,
@@ -303,6 +320,7 @@ export const products = [
   },
   {
     id: 18,
+    slug: "adidas-mens-lite-racer-adapt-70-sneaker",
     name: "Adidas Men's Lite Racer Adapt 7.0 Sneaker",
     category: "Clothing, Shoes & Jewelry",
     price: 50.0,
@@ -318,6 +336,7 @@ export const products = [
   },
   {
     id: 19,
+    slug: "levis-mens-511-slim-fit-jeans",
     name: "Levi's Men's 511 Slim Fit Jeans",
     category: "Clothing, Shoes & Jewelry",
     price: 39.5,
@@ -334,6 +353,7 @@ export const products = [
   },
   {
     id: 20,
+    slug: "casio-mens-mdv106-1av-analog-watch",
     name: "Casio Men's MDV106-1AV Analog Watch",
     category: "Clothing, Shoes & Jewelry",
     price: 52.95,
@@ -349,6 +369,7 @@ export const products = [
   },
   {
     id: 21,
+    slug: "fossil-womens-fiona-small-crossbody-handbag",
     name: "Fossil Women's Fiona Small Crossbody Handbag",
     category: "Clothing, Shoes & Jewelry",
     price: 78.0,
@@ -366,6 +387,7 @@ export const products = [
   // Toys & Games
   {
     id: 22,
+    slug: "lego-classic-medium-creative-brick-box",
     name: "LEGO Classic Medium Creative Brick Box",
     category: "Toys & Games",
     price: 29.99,
@@ -381,6 +403,7 @@ export const products = [
   },
   {
     id: 23,
+    slug: "uno-spin-card-game",
     name: "UNO Spin Card Game",
     category: "Toys & Games",
     price: 11.99,
@@ -396,6 +419,7 @@ export const products = [
   },
   {
     id: 24,
+    slug: "barbie-dreamhouse-3-story-dollhouse-playset",
     name: "Barbie Dreamhouse, 3-Story Dollhouse Playset",
     category: "Toys & Games",
     price: 179.99,
@@ -412,6 +436,7 @@ export const products = [
   },
   {
     id: 25,
+    slug: "nintendo-switch-super-mario-bros-wonder-bundle",
     name: "Nintendo Switch Super Mario Bros. Wonder Bundle",
     category: "Toys & Games",
     price: 349.99,
@@ -427,6 +452,7 @@ export const products = [
   },
   {
     id: 26,
+    slug: "play-doh-modeling-compound-36-pack",
     name: "Play-Doh Modeling Compound 36-Pack",
     category: "Toys & Games",
     price: 17.99,
@@ -444,6 +470,7 @@ export const products = [
   // Health & Household / Baby
   {
     id: 27,
+    slug: "pampers-aqua-pure-sensitive-water-baby-wipes",
     name: "Pampers Aqua Pure Sensitive Water Baby Wipes",
     category: "Health & Household",
     price: 29.94,
@@ -459,6 +486,7 @@ export const products = [
   },
   {
     id: 28,
+    slug: "charmin-ultra-soft-toilet-paper-18-family-mega-rolls",
     name: "Charmin Ultra Soft Toilet Paper, 18 Family Mega Rolls",
     category: "Health & Household",
     price: 37.49,
@@ -474,6 +502,7 @@ export const products = [
   },
   {
     id: 29,
+    slug: "natures-way-sambucus-elderberry-gummies",
     name: "Nature's Way Sambucus Elderberry Gummies",
     category: "Health & Household",
     price: 15.74,
@@ -489,6 +518,7 @@ export const products = [
   },
   {
     id: 30,
+    slug: "huggies-natural-care-sensitive-baby-wipes",
     name: "Huggies Natural Care Sensitive Baby Wipes",
     category: "Baby",
     price: 19.97,
@@ -504,6 +534,7 @@ export const products = [
   },
   {
     id: 31,
+    slug: "philips-avent-natural-baby-bottle-set",
     name: "Philips Avent Natural Baby Bottle Set",
     category: "Baby",
     price: 32.99,
@@ -521,6 +552,7 @@ export const products = [
   // Sports & Outdoors
   {
     id: 32,
+    slug: "fitbit-charge-6-fitness-tracker",
     name: "Fitbit Charge 6 Fitness Tracker",
     category: "Sports & Outdoors",
     price: 159.95,
@@ -536,6 +568,7 @@ export const products = [
   },
   {
     id: 33,
+    slug: "coleman-sundome-camping-tent",
     name: "Coleman Sundome Camping Tent",
     category: "Sports & Outdoors",
     price: 59.99,
@@ -551,6 +584,7 @@ export const products = [
   },
   {
     id: 34,
+    slug: "under-armour-mens-charged-assert-10-running-shoe",
     name: "Under Armour Men's Charged Assert 10 Running Shoe",
     category: "Sports & Outdoors",
     price: 70.0,
@@ -566,6 +600,7 @@ export const products = [
   },
   {
     id: 35,
+    slug: "garmin-forerunner-255-gps-running-smartwatch",
     name: "Garmin Forerunner 255 GPS Running Smartwatch",
     category: "Sports & Outdoors",
     price: 349.99,
@@ -581,6 +616,7 @@ export const products = [
   },
   {
     id: 36,
+    slug: "yeti-rambler-20-oz-tumbler",
     name: "YETI Rambler 20 oz Tumbler",
     category: "Sports & Outdoors",
     price: 35.0,
@@ -598,6 +634,7 @@ export const products = [
   // Books
   {
     id: 37,
+    slug: "atomic-habits-by-james-clear",
     name: "Atomic Habits by James Clear",
     category: "Books",
     price: 13.49,
@@ -613,6 +650,7 @@ export const products = [
   },
   {
     id: 38,
+    slug: "the-subtle-art-of-not-giving-a-fck-by-mark-manson",
     name: "The Subtle Art of Not Giving a F*ck by Mark Manson",
     category: "Books",
     price: 13.79,
@@ -628,6 +666,7 @@ export const products = [
   },
   {
     id: 39,
+    slug: "harry-potter-and-the-sorcerers-stone-by-jk-rowling",
     name: "Harry Potter and the Sorcerer's Stone by J.K. Rowling",
     category: "Books",
     price: 8.99,
@@ -643,6 +682,7 @@ export const products = [
   },
   {
     id: 40,
+    slug: "the-48-laws-of-power-by-robert-greene",
     name: "The 48 Laws of Power by Robert Greene",
     category: "Books",
     price: 17.99,
@@ -660,6 +700,7 @@ export const products = [
   // Garden & Tools
   {
     id: 41,
+    slug: "weber-spirit-e-310-gas-grill",
     name: "Weber Spirit E-310 Gas Grill",
     category: "Garden & Tools",
     price: 549.0,
@@ -681,6 +722,7 @@ export const products = [
   },
   {
     id: 42,
+    slug: "greenworks-40v-cordless-lawn-mower",
     name: "Greenworks 40V Cordless Lawn Mower",
     category: "Garden & Tools",
     price: 299.99,
@@ -696,6 +738,7 @@ export const products = [
   },
   {
     id: 43,
+    slug: "best-choice-products-4-piece-patio-furniture-set",
     name: "Best Choice Products 4-Piece Patio Furniture Set",
     category: "Garden & Tools",
     price: 349.99,
@@ -711,6 +754,7 @@ export const products = [
   },
   {
     id: 44,
+    slug: "victor-m250s-no-touch-no-see-electronic-mouse-trap",
     name: "Victor M250S No Touch, No See Electronic Mouse Trap",
     category: "Garden & Tools",
     price: 24.99,
@@ -726,6 +770,7 @@ export const products = [
   },
   {
     id: 45,
+    slug: "amazonbasics-mesh-desk-organizer",
     name: "AmazonBasics Mesh Desk Organizer",
     category: "Garden & Tools",
     price: 15.99,
@@ -741,6 +786,7 @@ export const products = [
   },
   {
     id: 46,
+    slug: "serenelife-hanging-egg-chair-with-stand",
     name: "SereneLife Hanging Egg Chair with Stand",
     category: "Garden & Tools",
     price: 299.99,
@@ -756,6 +802,7 @@ export const products = [
   },
   {
     id: 47,
+    slug: "blackdecker-20v-max-cordless-drill",
     name: "BLACK+DECKER 20V MAX Cordless Drill",
     category: "Garden & Tools",
     price: 49.99,
@@ -771,6 +818,7 @@ export const products = [
   },
   {
     id: 48,
+    slug: "scotts-turf-builder-lawn-food",
     name: "Scotts Turf Builder Lawn Food",
     category: "Garden & Tools",
     price: 39.98,
@@ -786,6 +834,7 @@ export const products = [
   },
   {
     id: 49,
+    slug: "fiskars-steel-bypass-pruning-shears",
     name: "Fiskars Steel Bypass Pruning Shears",
     category: "Garden & Tools",
     price: 14.97,
@@ -801,6 +850,7 @@ export const products = [
   },
   {
     id: 50,
+    slug: "miracle-gro-indoor-plant-food",
     name: "Miracle-Gro Indoor Plant Food",
     category: "Garden & Tools",
     price: 7.84,
@@ -818,6 +868,7 @@ export const products = [
   // Pet Supplies
   {
     id: 51,
+    slug: "amazon-basics-dog-and-puppy-pee-pads-with-leak-proof-design",
     name: "Amazon Basics Dog and Puppy Pee Pads with Leak-Proof Design",
     category: "Pet Supplies",
     price: 27.67,
@@ -833,6 +884,7 @@ export const products = [
   },
   {
     id: 52,
+    slug: "furbo-dog-camera-with-360-view",
     name: "Furbo Dog Camera with 360° View",
     category: "Pet Supplies",
     price: 169.99,
@@ -849,6 +901,7 @@ export const products = [
   },
   {
     id: 53,
+    slug: "kong-classic-dog-toy",
     name: "KONG - Classic Dog Toy",
     category: "Pet Supplies",
     price: 13.99,
@@ -864,6 +917,7 @@ export const products = [
   },
   {
     id: 54,
+    slug: "petsafe-automatic-ball-launcher-dog-toy",
     name: "PetSafe Automatic Ball Launcher Dog Toy",
     category: "Pet Supplies",
     price: 139.95,
@@ -879,6 +933,7 @@ export const products = [
   },
   {
     id: 55,
+    slug: "catit-flower-fountain-cat-water-fountain",
     name: "Catit Flower Fountain: Cat Water Fountain",
     category: "Pet Supplies",
     price: 29.99,
@@ -895,6 +950,7 @@ export const products = [
   },
   {
     id: 56,
+    slug: "purina-pro-plan-high-protein-dog-food",
     name: "Purina Pro Plan High Protein Dog Food",
     category: "Pet Supplies",
     price: 64.98,
@@ -910,6 +966,7 @@ export const products = [
   },
   {
     id: 57,
+    slug: "furminator-deshedding-tool-for-dogs",
     name: "FURminator deShedding Tool for Dogs",
     category: "Pet Supplies",
     price: 39.99,
@@ -925,6 +982,7 @@ export const products = [
   },
   {
     id: 58,
+    slug: "smartykat-hot-pursuit-cat-toy",
     name: "SmartyKat Hot Pursuit Cat Toy",
     category: "Pet Supplies",
     price: 14.99,
@@ -940,6 +998,7 @@ export const products = [
   },
   {
     id: 59,
+    slug: "petmate-two-door-top-load-pet-kennel",
     name: "Petmate Two Door Top Load Pet Kennel",
     category: "Pet Supplies",
     price: 35.99,
@@ -955,6 +1014,7 @@ export const products = [
   },
   {
     id: 60,
+    slug: "tetra-glofish-aquarium-gravel-cleaner",
     name: "Tetra GloFish Aquarium Gravel Cleaner",
     category: "Pet Supplies",
     price: 12.99,

@@ -91,12 +91,9 @@ export function ComparisonTables() {
                     <th className="px-4 py-3 text-left text-sm font-semibold">Feature</th>
                     {currentData.products.map((product) => (
                       <th key={product.id} className="px-4 py-3 text-center text-sm font-semibold min-w-[150px]">
-                        <Link
-                          href={`/products/${product.id}`}
-                          className="hover:text-foreground/80 transition-colors"
-                        >
+                        <div className="hover:text-foreground/80 transition-colors">
                           {product.name}
-                        </Link>
+                        </div>
                       </th>
                     ))}
                   </tr>
