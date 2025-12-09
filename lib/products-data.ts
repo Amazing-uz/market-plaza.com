@@ -177,7 +177,7 @@ export const products = [
     price: 39.99,
     rating: 4.8,
     reviews: 45678,
-    image: "https://m.media-amazon.com/images/I/81E+ZZQJ+OL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/81Ap89R-ajL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Rubbermaid-Brilliance-Storage-Container-BPA-free/dp/B079M8FPTW?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=0ce57ee92972e282a390c411718fd0e7&language=en_US&ref_=as_li_ss_tl",
     description:
       "BPA-free food storage containers with crystal-clear lids and leak-proof seals for organized freshness",
@@ -194,7 +194,7 @@ export const products = [
     price: 179.99,
     rating: 4.7,
     reviews: 34567,
-    image: "https://m.media-amazon.com/images/I/71xtMDDPzRL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71ybuaqVLwL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Shark-Navigator-Professional-Anti-Allergy-NV360/dp/B00JH98GR4?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=4b52d28573fc51f76f8d785e8fba34cc&language=en_US&ref_=as_li_ss_tl",
     description: "Powerful upright vacuum with lift-away technology and HEPA filter for versatile whole-home cleaning",
     longDescription:
@@ -212,7 +212,7 @@ export const products = [
     price: 18.99,
     rating: 4.6,
     reviews: 23456,
-    image: "https://m.media-amazon.com/images/I/71uiH7D0URL._SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71r7bLsvaVL._SX466_.jpg",
     link: "https://www.amazon.com/CeraVe-Skin-Renewing-Night-Cream/dp/B00SNPCSUY?&linkCode=ll1&tag=marketplaza0b-20&linkId=8f39fc27811dbb9f08f81d72b2117f16&language=en_US&ref_=as_li_ss_tl",
     description: "Nourishing night cream with ceramides and hyaluronic acid for hydrated, smoother-looking skin",
     longDescription:
@@ -228,7 +228,7 @@ export const products = [
     price: 8.99,
     rating: 4.5,
     reviews: 67890,
-    image: "https://m.media-amazon.com/images/I/51tYxN1QYCL._SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/61eH32lVpdL._SX522_.jpg",
     link: "https://www.amazon.com/Ordinary-Hyaluronic-Acid-2-30ml/dp/B01MYEZPC8?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=8a4f73bf92977ff2f8b39df4e9202f50&language=en_US&ref_=as_li_ss_tl",
     description: "Hydration serum with multiple molecular weights of hyaluronic acid for multi-depth hydration",
     longDescription:
@@ -244,7 +244,7 @@ export const products = [
     price: 24.0,
     rating: 4.7,
     reviews: 34567,
-    image: "https://m.media-amazon.com/images/I/61BQnr32+aL._SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/51H5SkeGANL._SX522_.jpg",
     link: "https://www.amazon.com/Laneige-Sleeping-Berry/dp/B07XXPHQZK?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=eb7fe6aced122cedc39f419093298f7b&language=en_US&ref_=as_li_ss_tl",
     description: "Overnight lip treatment that softens and moisturizes for smooth, supple lips by morning",
     longDescription:
@@ -260,7 +260,7 @@ export const products = [
     price: 8.47,
     rating: 4.7,
     reviews: 89012,
-    image: "https://m.media-amazon.com/images/I/71HJ5kQ4gQL._SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/61n1krgI+tL._SX466_.jpg",
     link: "https://www.amazon.com/Neutrogena-Makeup-Remover-Wipes-Count/dp/B004Y9H2LQ?tag=marketplaza0b-20",
     description: "Ultra-soft makeup remover cleansing towelettes that dissolve all traces of makeup",
     longDescription:
@@ -276,7 +276,7 @@ export const products = [
     price: 10.0,
     rating: 4.5,
     reviews: 45678,
-    image: "https://m.media-amazon.com/images/I/61Ni3QOXKUL._SL1500_.jpg",
+    image: "/elf-power-grip-primer-makeup-product.jpg",
     link: "https://www.amazon.com/l-f-Power-Grip-Primer-Enhancing/dp/B084Q5CQS9?&linkCode=ll1&tag=marketplaza0b-20&linkId=818d3797e1b4495aaa0287566855caf8&language=en_US&ref_=as_li_ss_tl",
     description: "Gel-based face primer with a tacky texture that grips makeup for long-lasting wear",
     longDescription:
@@ -294,7 +294,7 @@ export const products = [
     price: 13.0,
     rating: 4.5,
     reviews: 123456,
-    image: "https://m.media-amazon.com/images/I/81dQAf7PSOL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/81D+bCgn8hL._AC_SX569_.jpg",
     link: "https://www.amazon.com/Hanes-EcoSmart-Fleece-Sweatshirt-Stonewashed/dp/B0721C21RJ?th=1&psc=1&linkCode=ll1&tag=marketplaza0b-20&linkId=da35504c0b579d6450b5589c8da2e811&language=en_US&ref_=as_li_ss_tl",
     description: "Comfortable pullover hoodie made with eco-smart fleece containing recycled polyester fibers",
     longDescription:
@@ -310,7 +310,7 @@ export const products = [
     price: 14.0,
     rating: 4.5,
     reviews: 98765,
-    image: "https://m.media-amazon.com/images/I/81GQc1YlRmL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71QyRZzbaUL._AC_SX569_.jpg",
     link: "https://www.amazon.com/Hanes-Full-zip-Eco-smart-athletic-sweatshirts/dp/B00JUM4CT4?th=1&psc=1&linkCode=ll1&tag=marketplaza0b-20&linkId=33e5c4a83b34d758eb9b87796973935a&language=en_US&ref_=as_li_ss_tl",
     description: "Full-zip athletic hoodie with front pockets and eco-friendly fabric from recycled materials",
     longDescription:
@@ -326,7 +326,7 @@ export const products = [
     price: 50.0,
     rating: 4.5,
     reviews: 56789,
-    image: "https://m.media-amazon.com/images/I/71PZz8PVSQL._AC_SY695_.jpg",
+    image: "https://m.media-amazon.com/images/I/71JsiyZWwyL._AC_SY575_.jpg",
     link: "https://www.amazon.com/adidas-Racer-Adapt-Sneaker-Black/dp/B0CKMC1BGB?th=1&psc=1&linkCode=ll1&tag=marketplaza0b-20&linkId=2e9a3afb28afb38952d1e217a41242ac&language=en_US&ref_=as_li_ss_tl",
     description: "Lightweight running-inspired sneakers with Cloudfoam cushioning for all-day comfort",
     longDescription:
@@ -343,7 +343,7 @@ export const products = [
     originalPrice: 69.5,
     rating: 4.5,
     reviews: 234567,
-    image: "https://m.media-amazon.com/images/I/81xW+cGe0LL._AC_SY741_.jpg",
+    image: "https://m.media-amazon.com/images/I/81HRsNLuziL._AC_SX466_.jpg",
     link: "https://www.amazon.com/Levis-Mens-Jeans-Stretch-Panda/dp/B072NGDWDY?th=1&psc=1&linkCode=ll1&tag=marketplaza0b-20&linkId=0068877542a76eda70a8f4f7c59ecdc4&language=en_US&ref_=as_li_ss_tl",
     description: "Classic slim fit jeans with stretch denim for comfortable movement and timeless style",
     longDescription:
@@ -359,7 +359,7 @@ export const products = [
     price: 52.95,
     rating: 4.7,
     reviews: 67890,
-    image: "https://m.media-amazon.com/images/I/81R5vYdNEsL._AC_SY741_.jpg",
+    image: "https://m.media-amazon.com/images/I/61nHUVwR65L._AC_SY550_.jpg",
     link: "https://www.amazon.com/Casio-MDV106-1AV-Analog-Watch-Black/dp/B009KYJAJY?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=f91c27d47973faf389807bb435e88deb&language=en_US&ref_=as_li_ss_tl",
     description: "Durable dive watch with 200M water resistance, date display, and reliable quartz movement",
     longDescription:
@@ -375,7 +375,7 @@ export const products = [
     price: 78.0,
     rating: 4.6,
     reviews: 12345,
-    image: "https://m.media-amazon.com/images/I/81ek+CxDG7L._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/8160QjpuoOL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Fossil-Fiona-EW-Crossbody-Brown/dp/B07DLMZ4C7?th=1&psc=1&linkCode=ll1&tag=marketplaza0b-20&linkId=7076c7115004be96ad3365fb7bbcfa71&language=en_US&ref_=as_li_ss_tl",
     description: "Compact leather crossbody bag with adjustable strap and multiple compartments for essentials",
     longDescription:
@@ -393,7 +393,7 @@ export const products = [
     price: 29.99,
     rating: 4.9,
     reviews: 89012,
-    image: "https://m.media-amazon.com/images/I/715sgjh0rmL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/91zZyNjPcLL._AC_SY879_.jpg",
     link: "https://www.amazon.com/LEGO-Classic-Medium-Creative-Brick/dp/B00NHQFA1I?&linkCode=ll1&tag=marketplaza0b-20&linkId=d5e1b2125b26f7556c122d792ac11f75&language=en_US&ref_=as_li_ss_tl",
     description: "484-piece building brick set with classic LEGO pieces in vibrant colors for creative construction",
     longDescription:
@@ -409,7 +409,7 @@ export const products = [
     price: 11.99,
     rating: 4.8,
     reviews: 45678,
-    image: "https://m.media-amazon.com/images/I/810t+LPr8PL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71PFKADv6CL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Mattel-Games-Adults-Parties-Special/dp/B0D6X9T62X?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=747ea56a489e1140df8f0b0776733719&language=en_US&ref_=as_li_ss_tl",
     description: "Classic card game with electronic spinner adding exciting twists and unpredictable gameplay",
     longDescription:
@@ -426,7 +426,7 @@ export const products = [
     originalPrice: 239.99,
     rating: 4.8,
     reviews: 23456,
-    image: "https://m.media-amazon.com/images/I/81KQIXUfxnL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/715AHrLja3L._SX522_.jpg",
     link: "https://www.amazon.com/Barbie-Dreamhouse-3-Story-Playset-Elevator/dp/B0BLJTJ38M?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=27806ffda86bdbf46c43db8583b2bd73&language=en_US&ref_=as_li_ss_tl",
     description: "Three-story dollhouse with working elevator, pool, and 70+ accessories for imaginative play",
     longDescription:
@@ -442,7 +442,7 @@ export const products = [
     price: 349.99,
     rating: 4.8,
     reviews: 12345,
-    image: "https://m.media-amazon.com/images/I/61oiNaMKM7L._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71LqxbA1WCL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Nintendo-Switch-Mario-World-Bundle-2/dp/B0FC5FJZ9Z?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=4f7e258ea3d84aa3d5dd17abbb142b27&language=en_US&ref_=as_li_ss_tl",
     description: "Gaming console bundle with Super Mario Bros. Wonder game for multiplayer adventure fun",
     longDescription:
@@ -458,7 +458,7 @@ export const products = [
     price: 17.99,
     rating: 4.8,
     reviews: 67890,
-    image: "https://m.media-amazon.com/images/I/91fNVW3+iML._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71NqHkGRN1L._AC_SX679_PIbundle-12,TopRight,0,0_SH20_.jpg",
     link: "https://www.amazon.com/Play-Doh-Modeling-Compound-Non-Toxic-Exclusive/dp/B00JM5GW10?&linkCode=ll1&tag=marketplaza0b-20&linkId=9ce2d903a87e1e715c1a26ecc54a70c9&language=en_US&ref_=as_li_ss_tl",
     description: "36 vibrant colors of non-toxic modeling compound for creative sculpting and imaginative play",
     longDescription:
@@ -476,7 +476,7 @@ export const products = [
     price: 29.94,
     rating: 4.8,
     reviews: 34567,
-    image: "https://m.media-amazon.com/images/I/71aoWs2pNVL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/81Xyre0z0VL._AC_SX679_PIbundle-24,TopRight,0,0_SH20_.jpg",
     link: "https://www.amazon.com/Pampers-Wipes-Sensitive-Perfume-Multi/dp/B0BJ13K7FR?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=04f776e7b484d65939421619bbe1d33a&language=en_US&ref_=as_li_ss_tl",
     description: "Gentle water-based baby wipes made with 99% pure water for sensitive skin care",
     longDescription:
@@ -492,7 +492,7 @@ export const products = [
     price: 37.49,
     rating: 4.8,
     reviews: 89012,
-    image: "https://m.media-amazon.com/images/I/817K05FNh9L._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/7134HKzZjdL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Charmin-Toilet-Family-Cushiony-Sheets/dp/B0798DVT68?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=18588762a05ef1a3db7cdd56e8d20407&language=en_US&ref_=as_li_ss_tl",
     description: "Soft, strong bathroom tissue with cushiony comfort and long-lasting family mega rolls",
     longDescription:
@@ -508,7 +508,7 @@ export const products = [
     price: 15.74,
     rating: 4.6,
     reviews: 45678,
-    image: "https://m.media-amazon.com/images/I/81n9KJPuaXL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/81FlNgJOeqL._AC_SX679_PIbundle-12,TopRight,0,0_SH20_.jpg",
     link: "https://www.amazon.com/Natures-Way-Elderberry-Vegetarian-Packaging/dp/B00MJ7VL1O?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=3b36901da45e9f7c94ec754f68f38e19&language=en_US&ref_=as_li_ss_tl",
     description: "Immune support elderberry gummies with vitamin C and zinc for daily wellness",
     longDescription:
@@ -524,7 +524,7 @@ export const products = [
     price: 19.97,
     rating: 4.8,
     reviews: 123456,
-    image: "https://m.media-amazon.com/images/I/81N7aCUoi1L._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71IsWBuTvfL._SX466_.jpg",
     link: "https://www.amazon.com/HUGGIES-Natural-Unscented-Sensitive-Water-Based/dp/B07SCL613T?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=9281da5ee7355645759c902aea4040b7&language=en_US&ref_=as_li_ss_tl",
     description: "Gentle, fragrance-free baby wipes with aloe and vitamin E for sensitive skin",
     longDescription:
@@ -540,7 +540,7 @@ export const products = [
     price: 32.99,
     rating: 4.7,
     reviews: 23456,
-    image: "https://m.media-amazon.com/images/I/61h0xpsDIuL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/61ZtqtvoD2L._AC_SX466_.jpg",
     link: "https://www.amazon.com/Philips-Natural-Response-SCY910-04/dp/B098YHHV3Q?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=3057aa200e5a633f518b563e9302239b&language=en_US&ref_=as_li_ss_tl",
     description: "Natural feeding bottle set with wide breast-shaped nipple for easy latch and natural feeding",
     longDescription:
@@ -558,7 +558,7 @@ export const products = [
     price: 159.95,
     rating: 4.4,
     reviews: 12345,
-    image: "https://m.media-amazon.com/images/I/61xh-IyqBmL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/61aUr3tBexL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Fitbit-Exercise-Equipment-6-Months-Membership/dp/B0CC62ZG1M?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=c4108f31d1afeb88655325cef8256f96&language=en_US&ref_=as_li_ss_tl",
     description: "Advanced fitness tracker with built-in GPS, heart rate monitoring, and 6 months Premium membership",
     longDescription:
@@ -574,7 +574,7 @@ export const products = [
     price: 59.99,
     rating: 4.6,
     reviews: 45678,
-    image: "https://m.media-amazon.com/images/I/81fDlI05yiL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/61O30g0cZmL._AC_SY575_.jpg",
     link: "https://www.amazon.com/Coleman-Weatherproof-Festivals-Backyard-Sleepovers/dp/B0D7QLQNS5?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=4f3e5b076c9ae52488980ac295380bba&language=en_US&ref_=as_li_ss_tl",
     description: "Easy setup camping tent with WeatherTec system for weatherproof outdoor adventures",
     longDescription:
@@ -590,7 +590,7 @@ export const products = [
     price: 70.0,
     rating: 4.5,
     reviews: 23456,
-    image: "https://m.media-amazon.com/images/I/61U+8AUrceL._AC_SY695_.jpg",
+    image: "https://m.media-amazon.com/images/I/518z0My1ZlS._AC_SX679_.jpg",
     link: "https://www.amazon.com/Under-Armour-Charged-Assert-Running/dp/B09XBWQ9Y9?th=1&psc=1&linkCode=ll1&tag=marketplaza0b-20&linkId=1f57540bc03f435a78524dffe4c96062&language=en_US&ref_=as_li_ss_tl",
     description: "Lightweight running shoes with responsive cushioning and durable outsole for comfort and traction",
     longDescription:
@@ -606,7 +606,7 @@ export const products = [
     price: 349.99,
     rating: 4.7,
     reviews: 12345,
-    image: "https://m.media-amazon.com/images/I/61Vwqx5FLFL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/51kXewLNVGL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Garmin-Forerunner-Running-Suggested-Workouts/dp/B092RCLKHN?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=61eb226427ea55cd57e8d76154e0fda8&language=en_US&ref_=as_li_ss_tl",
     description: "Advanced GPS running watch with training metrics, recovery insights, and multi-sport modes",
     longDescription:
@@ -622,7 +622,7 @@ export const products = [
     price: 35.0,
     rating: 4.8,
     reviews: 67890,
-    image: "https://m.media-amazon.com/images/I/41Y2b7vtBqL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71F4+7rk2eL._SX342_.jpg",
     link: "https://www.amazon.com/YETI-Rambler-Stainless-Insulated-MagSlider/dp/B08D3VPRQ1?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=7b0241bdfd3ef2254fc590c4208c934e&language=en_US&ref_=as_li_ss_tl",
     description: "Vacuum-insulated stainless steel tumbler with MagSlider lid keeping drinks hot or cold for hours",
     longDescription:
@@ -640,7 +640,7 @@ export const products = [
     price: 13.49,
     rating: 4.8,
     reviews: 234567,
-    image: "https://m.media-amazon.com/images/I/81F90H7hnML._SY522_.jpg",
+    image: "https://m.media-amazon.com/images/I/81A5jQHA+lL._SX342_.jpg",
     link: "https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH?&linkCode=ll1&tag=marketplaza0b-20&linkId=8f532b5c9b2ed87a2c4512190d2be3ea&language=en_US&ref_=as_li_ss_tl",
     description: "Practical guide to building good habits and breaking bad ones through tiny behavioral changes",
     longDescription:
@@ -656,7 +656,7 @@ export const products = [
     price: 13.79,
     rating: 4.6,
     reviews: 123456,
-    image: "https://m.media-amazon.com/images/I/71QKQ9mwV7L._SY522_.jpg",
+    image: "https://m.media-amazon.com/images/I/91eopoUCjLL._SX342_.jpg",
     link: "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344?&linkCode=ll1&tag=marketplaza0b-20&linkId=196ef3977d7d0cd9b7bf662b081dd31d&language=en_US&ref_=as_li_ss_tl",
     description: "Counterintuitive approach to living a good life by focusing on what truly matters",
     longDescription:
@@ -672,7 +672,7 @@ export const products = [
     price: 8.99,
     rating: 4.9,
     reviews: 345678,
-    image: "https://m.media-amazon.com/images/I/81YOuOGFCJL._SY522_.jpg",
+    image: "https://m.media-amazon.com/images/I/71s-d6iLlaL._SX342_.jpg",
     link: "https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Book/dp/B017V4IMVQ?&linkCode=ll1&tag=marketplaza0b-20&linkId=217def3bac25bf1d92f9a3c017446e3d&language=en_US&ref_=as_li_ss_tl",
     description: "First book in the magical Harry Potter series following a young wizard's adventures at Hogwarts",
     longDescription:
@@ -688,7 +688,7 @@ export const products = [
     price: 17.99,
     rating: 4.7,
     reviews: 89012,
-    image: "https://m.media-amazon.com/images/I/71aG+xDKSYL._SY522_.jpg",
+    image: "https://m.media-amazon.com/images/I/616wRFOTA5L._AC_SX466_.jpg",
     link: "https://www.amazon.com/48-Laws-of-Power-Robert-Greene-audiobook/dp/B00X0TKUS0?&linkCode=ll1&tag=marketplaza0b-20&linkId=8073d81076f63908d9e556da0cdca27d&language=en_US&ref_=as_li_ss_tl",
     description: "Classic guide to power dynamics with historical examples and strategic insights for success",
     longDescription:
@@ -707,7 +707,7 @@ export const products = [
     originalPrice: 649.0,
     rating: 4.7,
     reviews: 23456,
-    image: "https://m.media-amazon.com/images/I/81Ia9nEKywL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71vd9uEPNFL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Weber-SPIRIT-3-Burner-Liquid-Propane/dp/B0DPH6NNTB?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=4f955fd70a7ac4a1800ecea826d3d28c&language=en_US&ref_=as_li_ss_tl",
     description: "3-burner liquid propane gas grill with porcelain-enameled lid and cooking grates",
     longDescription:
@@ -728,7 +728,7 @@ export const products = [
     price: 299.99,
     rating: 4.5,
     reviews: 12456,
-    image: "https://m.media-amazon.com/images/I/71E6jd3Ha0L._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/81hk0PGpklL._AC_SX679_.jpg",
     link: "https://www.amazon.com/dp/B09F9C3KFS?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=d81fe22d5dcb6947d8dfcb8f4dd27257&language=en_US&ref_=as_li_ss_tl",
     description: "Powerful 20-inch cordless mower with brushless motor and durable steel deck for efficient lawn care",
     longDescription:
@@ -744,7 +744,7 @@ export const products = [
     price: 349.99,
     rating: 4.3,
     reviews: 8934,
-    image: "https://m.media-amazon.com/images/I/81Hh3i++S-L._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71UDfsaOKvL._AC_SX679_.jpg",
     link: "https://www.amazon.com/dp/B09F3CWRRC?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=4e804ddb5f3c3f2d60ae6642b06cc78d&language=en_US&ref_=as_li_ss_tl",
     description: "All-weather wicker conversation set with cushions perfect for outdoor relaxation and entertaining",
     longDescription:
@@ -760,7 +760,7 @@ export const products = [
     price: 24.99,
     rating: 4.2,
     reviews: 15789,
-    image: "https://m.media-amazon.com/images/I/61wJQdgnqLL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71CZ9FyVBhL._AC_SX679_.jpg",
     link: "https://www.amazon.com/dp/B07J66MY3Y?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=7ae0d622e5419ede71bd30ae16028dcb&language=en_US&ref_=as_li_ss_tl",
     description: "Hygienic electronic trap delivering humane instant kill with easy no-touch disposal",
     longDescription:
@@ -776,7 +776,7 @@ export const products = [
     price: 15.99,
     rating: 4.7,
     reviews: 34567,
-    image: "https://m.media-amazon.com/images/I/81d8Z7DHFfL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/81IY7R7mHfL._AC_SX679_.jpg",
     link: "https://www.amazon.com/dp/B0DBZM45GP?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=a1a7b2d236ef7d7239789ef64f3b0ea7&language=en_US&ref_=as_li_ss_tl",
     description: "Metal mesh desktop organizer with multiple compartments for office supplies and accessories",
     longDescription:
@@ -792,7 +792,7 @@ export const products = [
     price: 299.99,
     rating: 4.4,
     reviews: 6789,
-    image: "https://m.media-amazon.com/images/I/71VEpOvlzWL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71ZBHo8TceL._AC_SX679_.jpg",
     link: "https://www.amazon.com/JAMFLY-Outdoor-Oversized-Lounger-Backyard/dp/B0D11DZZ5J?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=880f88f9a87321fc9bb67fad53ce96af&language=en_US&ref_=as_li_ss_tl",
     description: "Outdoor lounge chair with cushion and sturdy stand for relaxing in garden or patio",
     longDescription:
@@ -808,7 +808,7 @@ export const products = [
     price: 49.99,
     rating: 4.6,
     reviews: 23456,
-    image: "https://m.media-amazon.com/images/I/61J3dKtTk9L._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/81VhMt7V08L._AC_SX679_.jpg",
     link: "https://www.amazon.com/Kurapika-Furniture-Outdoor-Conversation-Backyard/dp/B0DP43X8ZJ?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=64c5c03385e2eb340f64dc82ca68cb3f&language=en_US&ref_=as_li_ss_tl",
     description: "Compact cordless drill with lithium battery for drilling and fastening in tight spaces",
     longDescription:
@@ -824,7 +824,7 @@ export const products = [
     price: 39.98,
     rating: 4.7,
     reviews: 45678,
-    image: "https://m.media-amazon.com/images/I/81FJPl7UZCL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71tXTDVLrFL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Devoko-Furniture-Rattan-Cushion-Outdoor/dp/B0765VTBLV?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=3f02271971bf0279a77adc623b339369&language=en_US&ref_=as_li_ss_tl",
     description: "Premium fertilizer strengthening grass against heat and drought for thick, green lawns",
     longDescription:
@@ -840,7 +840,7 @@ export const products = [
     price: 14.97,
     rating: 4.8,
     reviews: 67890,
-    image: "https://m.media-amazon.com/images/I/61mGLCAI9NL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/61Xjhe-7-1L._AC_SX679_.jpg",
     link: "https://www.amazon.com/Qsun-Furniture-Conversation-Backyard-Poolside/dp/B09CDNXK56?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=fcca77e174bba46b0dcc762ee6f0a3c7&language=en_US&ref_=as_li_ss_tl",
     description: "Sharp precision-ground steel blade pruning scissors for clean cuts on plants and flowers",
     longDescription:
@@ -856,7 +856,7 @@ export const products = [
     price: 7.84,
     rating: 4.6,
     reviews: 12345,
-    image: "https://m.media-amazon.com/images/I/71qAb8GBqCL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71ekHPtCxdL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Mouse-Station-Keys-Required-Stations/dp/B0FDFHPVQ7?&linkCode=ll1&tag=marketplaza0b-20&linkId=45484e735cf780b478006dd801da7b4a&language=en_US&ref_=as_li_ss_tl",
     description: "Liquid fertilizer instantly feeding houseplants with essential nutrients for vibrant growth",
     longDescription:
@@ -874,7 +874,7 @@ export const products = [
     price: 27.67,
     rating: 4.5,
     reviews: 89012,
-    image: "https://m.media-amazon.com/images/I/81+bQvlIo4L._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71LHksRF15L._AC_SX679_.jpg",
     link: "https://www.amazon.com/Amazon-Basics-Heavy-Duty-Absorbency-Regular/dp/B00MW8G62E?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=4945eecc05126bf731b54c908b73ba29&language=en_US&ref_=as_li_ss_tl",
     description: "Super-absorbent training pads with 5-layer leak-proof design and quick-dry surface for puppies",
     longDescription:
@@ -891,7 +891,7 @@ export const products = [
     originalPrice: 209.99,
     rating: 4.3,
     reviews: 12345,
-    image: "https://m.media-amazon.com/images/I/516pBE3nDtL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/616wRFOTA5L._AC_SX466_.jpg",
     link: "https://www.amazon.com/Furbo-Camera-with-360%C2%B0-View/dp/B09GDQZLD1?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=5ec03ce0c8bf77be5d72d661b83879cb&language=en_US&ref_=as_li_ss_tl",
     description: "Interactive pet camera with treat tossing, barking alerts, and full room view for monitoring pets",
     longDescription:
@@ -907,7 +907,7 @@ export const products = [
     price: 13.99,
     rating: 4.7,
     reviews: 234567,
-    image: "https://m.media-amazon.com/images/I/61wcDF7TUHL._AC_SX679_.jpg",
+    image: "/kong-classic-red-rubber-dog-toy.jpg",
     link: "https://www.amazon.com/KONG-Classic-Durable-Natural-Rubber/dp/B0002AR0II?tag=marketplaza0b-20",
     description: "Durable rubber chew toy that can be stuffed with treats for mental stimulation and play",
     longDescription:
@@ -923,7 +923,7 @@ export const products = [
     price: 139.95,
     rating: 4.2,
     reviews: 8901,
-    image: "https://m.media-amazon.com/images/I/71kiOXh6SDL._AC_SX679_.jpg",
+    image: "/petsafe-automatic-ball-launcher-for-dogs.jpg",
     link: "https://www.amazon.com/PetSafe-Automatic-Launcher-Interactive-Included/dp/B075X3CRPF?tag=marketplaza0b-20",
     description: "Interactive ball thrower keeping dogs entertained with automatic fetching fun",
     longDescription:
@@ -939,7 +939,7 @@ export const products = [
     price: 29.99,
     rating: 4.4,
     reviews: 45678,
-    image: "https://m.media-amazon.com/images/I/71Hq+VdWj8L._AC_SX679_.jpg",
+    image: "/catit-flower-fountain-water-dispenser.jpg",
     link: "https://www.amazon.com/Catit-Flower-Fountain-Drinking-Waterfall/dp/B0146QXOB0?tag=marketplaza0b-20",
     description:
       "Fresh flowing water fountain encouraging cats to drink more with flower design and triple action filter",
@@ -956,7 +956,7 @@ export const products = [
     price: 64.98,
     rating: 4.8,
     reviews: 67890,
-    image: "https://m.media-amazon.com/images/I/81Hj9sxIoFL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71IsWBuTvfL._SX466_.jpg",
     link: "https://www.amazon.com/Purina-Protein-Chicken-Weight-Formula/dp/B07L1CTKNC?tag=marketplaza0b-20",
     description: "High-protein dry dog food with real chicken supporting muscle maintenance and overall health",
     longDescription:
@@ -972,7 +972,7 @@ export const products = [
     price: 39.99,
     rating: 4.6,
     reviews: 123456,
-    image: "https://m.media-amazon.com/images/I/71rJzjo0IhL._AC_SX679_.jpg",
+    image: "/furminator-deshedding-grooming-tool.jpg",
     link: "https://www.amazon.com/FURminator-Long-Hair-deShedding-Large/dp/B0040QS3PO?tag=marketplaza0b-20",
     description: "Professional grooming tool reducing shedding up to 90% with stainless steel edge",
     longDescription:
@@ -988,7 +988,7 @@ export const products = [
     price: 14.99,
     rating: 4.5,
     reviews: 34567,
-    image: "https://m.media-amazon.com/images/I/81McoQ7VSOL._AC_SX679_.jpg",
+    image: "/smartykat-hot-pursuit-electronic-cat-toy.jpg",
     link: "https://www.amazon.com/SmartyKat-Pursuit-Electronic-Concealed-Motion/dp/B006CAO1IK?tag=marketplaza0b-20",
     description: "Electronic cat toy with concealed feather stimulating natural hunting instincts",
     longDescription:
@@ -1004,7 +1004,7 @@ export const products = [
     price: 35.99,
     rating: 4.6,
     reviews: 23456,
-    image: "https://m.media-amazon.com/images/I/717xU4yPkVL._AC_SX679_.jpg",
+    image: "/petmate-two-door-pet-carrier-kennel.jpg",
     link: "https://www.amazon.com/Petmate-Door-Top-Load-Kennel/dp/B00AX3KWFY?tag=marketplaza0b-20",
     description: "Durable pet carrier with top and side entry for safe comfortable travel",
     longDescription:
@@ -1020,7 +1020,7 @@ export const products = [
     price: 12.99,
     rating: 4.5,
     reviews: 12345,
-    image: "https://m.media-amazon.com/images/I/61rU8YZBbWL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/71POJ-eqDWL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Tetra-Cleaner-Gravel-Aquariums-Freshwater/dp/B091D3DTWS?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=825a5f5eecfb329bb695d2f678461c76&language=en_US&ref_=as_li_ss_tl",
     description: "Easy-to-use aquarium vacuum siphon for cleaning gravel and maintaining healthy fish tank water",
     longDescription:
