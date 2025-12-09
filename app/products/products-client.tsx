@@ -3,7 +3,7 @@
 import { Star, ExternalLink } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
-import { products } from "@/components/featured-products"
+import { products } from "@/lib/products-data"
 import { Footer } from "@/components/footer"
 
 export default function ProductsClientPage() {
