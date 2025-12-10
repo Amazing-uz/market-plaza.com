@@ -393,7 +393,7 @@ export const products = [
     price: 29.99,
     rating: 4.9,
     reviews: 89012,
-    image: "https://m.media-amazon.com/images/I/91zZyNjPcLL._AC_SY879_.jpg",
+    image: "https://m.media-amazon.com/images/I/8160QjpuoOL._AC_SX679_.jpg",
     link: "https://www.amazon.com/LEGO-Classic-Medium-Creative-Brick/dp/B00NHQFA1I?&linkCode=ll1&tag=marketplaza0b-20&linkId=d5e1b2125b26f7556c122d792ac11f75&language=en_US&ref_=as_li_ss_tl",
     description: "484-piece building brick set with classic LEGO pieces in vibrant colors for creative construction",
     longDescription:
@@ -409,7 +409,7 @@ export const products = [
     price: 11.99,
     rating: 4.8,
     reviews: 45678,
-    image: "https://m.media-amazon.com/images/I/71PFKADv6CL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/91zZyNjPcLL._AC_SY879_.jpg",
     link: "https://www.amazon.com/Mattel-Games-Adults-Parties-Special/dp/B0D6X9T62X?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=747ea56a489e1140df8f0b0776733719&language=en_US&ref_=as_li_ss_tl",
     description: "Classic card game with electronic spinner adding exciting twists and unpredictable gameplay",
     longDescription:
@@ -426,7 +426,7 @@ export const products = [
     originalPrice: 239.99,
     rating: 4.8,
     reviews: 23456,
-    image: "https://m.media-amazon.com/images/I/715AHrLja3L._SX522_.jpg",
+    image: "https://m.media-amazon.com/images/I/71PFKADv6CL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Barbie-Dreamhouse-3-Story-Playset-Elevator/dp/B0BLJTJ38M?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=27806ffda86bdbf46c43db8583b2bd73&language=en_US&ref_=as_li_ss_tl",
     description: "Three-story dollhouse with working elevator, pool, and 70+ accessories for imaginative play",
     longDescription:
@@ -442,7 +442,7 @@ export const products = [
     price: 349.99,
     rating: 4.8,
     reviews: 12345,
-    image: "https://m.media-amazon.com/images/I/71LqxbA1WCL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/715AHrLja3L._SX522_.jpg",
     link: "https://www.amazon.com/Nintendo-Switch-Mario-World-Bundle-2/dp/B0FC5FJZ9Z?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=4f7e258ea3d84aa3d5dd17abbb142b27&language=en_US&ref_=as_li_ss_tl",
     description: "Gaming console bundle with Super Mario Bros. Wonder game for multiplayer adventure fun",
     longDescription:
@@ -458,7 +458,7 @@ export const products = [
     price: 17.99,
     rating: 4.8,
     reviews: 67890,
-    image: "https://m.media-amazon.com/images/I/71NqHkGRN1L._AC_SX679_PIbundle-12,TopRight,0,0_SH20_.jpg",
+    image: "https://m.media-amazon.com/images/I/71LqxbA1WCL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Play-Doh-Modeling-Compound-Non-Toxic-Exclusive/dp/B00JM5GW10?&linkCode=ll1&tag=marketplaza0b-20&linkId=9ce2d903a87e1e715c1a26ecc54a70c9&language=en_US&ref_=as_li_ss_tl",
     description: "36 vibrant colors of non-toxic modeling compound for creative sculpting and imaginative play",
     longDescription:
@@ -476,7 +476,7 @@ export const products = [
     price: 29.94,
     rating: 4.8,
     reviews: 34567,
-    image: "https://m.media-amazon.com/images/I/81Xyre0z0VL._AC_SX679_PIbundle-24,TopRight,0,0_SH20_.jpg",
+    image: "https://m.media-amazon.com/images/I/71NqHkGRN1L._AC_SX679_PIbundle-12,TopRight,0,0_SH20_.jpg",
     link: "https://www.amazon.com/Pampers-Wipes-Sensitive-Perfume-Multi/dp/B0BJ13K7FR?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=04f776e7b484d65939421619bbe1d33a&language=en_US&ref_=as_li_ss_tl",
     description: "Gentle water-based baby wipes made with 99% pure water for sensitive skin care",
     longDescription:
@@ -492,7 +492,7 @@ export const products = [
     price: 37.49,
     rating: 4.8,
     reviews: 89012,
-    image: "https://m.media-amazon.com/images/I/7134HKzZjdL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/81Xyre0z0VL._AC_SX679_PIbundle-24,TopRight,0,0_SH20_.jpg",
     link: "https://www.amazon.com/Charmin-Toilet-Family-Cushiony-Sheets/dp/B0798DVT68?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=18588762a05ef1a3db7cdd56e8d20407&language=en_US&ref_=as_li_ss_tl",
     description: "Soft, strong bathroom tissue with cushiony comfort and long-lasting family mega rolls",
     longDescription:
@@ -508,7 +508,7 @@ export const products = [
     price: 15.74,
     rating: 4.6,
     reviews: 45678,
-    image: "https://m.media-amazon.com/images/I/81FlNgJOeqL._AC_SX679_PIbundle-12,TopRight,0,0_SH20_.jpg",
+    image: "https://m.media-amazon.com/images/I/7134HKzZjdL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Natures-Way-Elderberry-Vegetarian-Packaging/dp/B00MJ7VL1O?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=3b36901da45e9f7c94ec754f68f38e19&language=en_US&ref_=as_li_ss_tl",
     description: "Immune support elderberry gummies with vitamin C and zinc for daily wellness",
     longDescription:
@@ -524,7 +524,7 @@ export const products = [
     price: 19.97,
     rating: 4.8,
     reviews: 123456,
-    image: "https://m.media-amazon.com/images/I/71IsWBuTvfL._SX466_.jpg",
+    image: "https://m.media-amazon.com/images/I/81FlNgJOeqL._AC_SX679_PIbundle-12,TopRight,0,0_SH20_.jpg",
     link: "https://www.amazon.com/HUGGIES-Natural-Unscented-Sensitive-Water-Based/dp/B07SCL613T?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=9281da5ee7355645759c902aea4040b7&language=en_US&ref_=as_li_ss_tl",
     description: "Gentle, fragrance-free baby wipes with aloe and vitamin E for sensitive skin",
     longDescription:
@@ -540,7 +540,7 @@ export const products = [
     price: 32.99,
     rating: 4.7,
     reviews: 23456,
-    image: "https://m.media-amazon.com/images/I/61ZtqtvoD2L._AC_SX466_.jpg",
+    image: "https://m.media-amazon.com/images/I/71IsWBuTvfL._SX466_.jpg",
     link: "https://www.amazon.com/Philips-Natural-Response-SCY910-04/dp/B098YHHV3Q?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=3057aa200e5a633f518b563e9302239b&language=en_US&ref_=as_li_ss_tl",
     description: "Natural feeding bottle set with wide breast-shaped nipple for easy latch and natural feeding",
     longDescription:
@@ -558,7 +558,7 @@ export const products = [
     price: 159.95,
     rating: 4.4,
     reviews: 12345,
-    image: "https://m.media-amazon.com/images/I/61aUr3tBexL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/61ZtqtvoD2L._AC_SX466_.jpg",
     link: "https://www.amazon.com/Fitbit-Exercise-Equipment-6-Months-Membership/dp/B0CC62ZG1M?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=c4108f31d1afeb88655325cef8256f96&language=en_US&ref_=as_li_ss_tl",
     description: "Advanced fitness tracker with built-in GPS, heart rate monitoring, and 6 months Premium membership",
     longDescription:
@@ -574,7 +574,7 @@ export const products = [
     price: 59.99,
     rating: 4.6,
     reviews: 45678,
-    image: "https://m.media-amazon.com/images/I/61O30g0cZmL._AC_SY575_.jpg",
+    image: "https://m.media-amazon.com/images/I/61aUr3tBexL._AC_SX679_.jpg",
     link: "https://www.amazon.com/Coleman-Weatherproof-Festivals-Backyard-Sleepovers/dp/B0D7QLQNS5?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=4f3e5b076c9ae52488980ac295380bba&language=en_US&ref_=as_li_ss_tl",
     description: "Easy setup camping tent with WeatherTec system for weatherproof outdoor adventures",
     longDescription:
@@ -590,7 +590,7 @@ export const products = [
     price: 70.0,
     rating: 4.5,
     reviews: 23456,
-    image: "https://m.media-amazon.com/images/I/518z0My1ZlS._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/61O30g0cZmL._AC_SY575_.jpg",
     link: "https://www.amazon.com/Under-Armour-Charged-Assert-Running/dp/B09XBWQ9Y9?th=1&psc=1&linkCode=ll1&tag=marketplaza0b-20&linkId=1f57540bc03f435a78524dffe4c96062&language=en_US&ref_=as_li_ss_tl",
     description: "Lightweight running shoes with responsive cushioning and durable outsole for comfort and traction",
     longDescription:
@@ -606,7 +606,7 @@ export const products = [
     price: 349.99,
     rating: 4.7,
     reviews: 12345,
-    image: "https://m.media-amazon.com/images/I/51kXewLNVGL._AC_SX679_.jpg",
+    image: "https://m.media-amazon.com/images/I/518z0My1ZlS._AC_SX679_.jpg",
     link: "https://www.amazon.com/Garmin-Forerunner-Running-Suggested-Workouts/dp/B092RCLKHN?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=61eb226427ea55cd57e8d76154e0fda8&language=en_US&ref_=as_li_ss_tl",
     description: "Advanced GPS running watch with training metrics, recovery insights, and multi-sport modes",
     longDescription:
@@ -622,7 +622,7 @@ export const products = [
     price: 35.0,
     rating: 4.8,
     reviews: 67890,
-    image: "https://m.media-amazon.com/images/I/71F4+7rk2eL._SX342_.jpg",
+    image: "https://m.media-amazon.com/images/I/51kXewLNVGL._AC_SX679_.jpg",
     link: "https://www.amazon.com/YETI-Rambler-Stainless-Insulated-MagSlider/dp/B08D3VPRQ1?th=1&linkCode=ll1&tag=marketplaza0b-20&linkId=7b0241bdfd3ef2254fc590c4208c934e&language=en_US&ref_=as_li_ss_tl",
     description: "Vacuum-insulated stainless steel tumbler with MagSlider lid keeping drinks hot or cold for hours",
     longDescription:
@@ -640,7 +640,7 @@ export const products = [
     price: 13.49,
     rating: 4.8,
     reviews: 234567,
-    image: "https://m.media-amazon.com/images/I/81A5jQHA+lL._SX342_.jpg",
+    image: "https://m.media-amazon.com/images/I/71F4+7rk2eL._SX342_.jpg",
     link: "https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH?&linkCode=ll1&tag=marketplaza0b-20&linkId=8f532b5c9b2ed87a2c4512190d2be3ea&language=en_US&ref_=as_li_ss_tl",
     description: "Practical guide to building good habits and breaking bad ones through tiny behavioral changes",
     longDescription:
@@ -656,7 +656,7 @@ export const products = [
     price: 13.79,
     rating: 4.6,
     reviews: 123456,
-    image: "https://m.media-amazon.com/images/I/91eopoUCjLL._SX342_.jpg",
+    image: "https://m.media-amazon.com/images/I/81A5jQHA+lL._SX342_.jpg",
     link: "https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344?&linkCode=ll1&tag=marketplaza0b-20&linkId=196ef3977d7d0cd9b7bf662b081dd31d&language=en_US&ref_=as_li_ss_tl",
     description: "Counterintuitive approach to living a good life by focusing on what truly matters",
     longDescription:
@@ -672,7 +672,7 @@ export const products = [
     price: 8.99,
     rating: 4.9,
     reviews: 345678,
-    image: "https://m.media-amazon.com/images/I/71s-d6iLlaL._SX342_.jpg",
+    image: "https://m.media-amazon.com/images/I/91eopoUCjLL._SX342_.jpg",
     link: "https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Book/dp/B017V4IMVQ?&linkCode=ll1&tag=marketplaza0b-20&linkId=217def3bac25bf1d92f9a3c017446e3d&language=en_US&ref_=as_li_ss_tl",
     description: "First book in the magical Harry Potter series following a young wizard's adventures at Hogwarts",
     longDescription:
@@ -688,7 +688,7 @@ export const products = [
     price: 17.99,
     rating: 4.7,
     reviews: 89012,
-    image: "https://m.media-amazon.com/images/I/616wRFOTA5L._AC_SX466_.jpg",
+    image: "https://m.media-amazon.com/images/I/71s-d6iLlaL._SX342_.jpg",
     link: "https://www.amazon.com/48-Laws-of-Power-Robert-Greene-audiobook/dp/B00X0TKUS0?&linkCode=ll1&tag=marketplaza0b-20&linkId=8073d81076f63908d9e556da0cdca27d&language=en_US&ref_=as_li_ss_tl",
     description: "Classic guide to power dynamics with historical examples and strategic insights for success",
     longDescription:

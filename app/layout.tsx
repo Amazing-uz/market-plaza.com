@@ -7,7 +7,7 @@ import './globals.css'
 const playfair = Playfair_Display({ subsets: ["latin"] });
 const inter = Inter({ subsets: ["latin"] });
 
-export const metadata: Metadata = {
+export const metadata: any = {
 	title: 'Market Plaza - Your Shopping Destination',
 	description: 'Discover quality products across all categories',
 	generator: 'v0.app',
